@@ -1,6 +1,0 @@
-{
-    "plugins": ["@prettier/plugin-pug"],
-    "pugSingleQuote": false,
-    "pugAttributeSeparator": "none"
-  }
-  
